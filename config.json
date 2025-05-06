@@ -1,0 +1,14 @@
+{
+  "launcher": {
+    "version": "0.00.001",
+    "download_url": "https://github.com/volpotitel/shadow-stocks-repo/releases/download/v0.00.001/launcher.exe"
+  },
+  "game": {
+    "version": "1.0.0",
+    "download_url": "https://github.com/volpotitel/shadow-stocks-repo/releases/download/v1.0.0/game.exe"
+  },
+  "web": {
+    "version": "0.00.001",
+    "api_url": "https://api.shadowstocks.app/"
+  }
+}
